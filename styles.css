@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+}
+
+h1{
+    color: #2B4F81;
+    font-size: 50px;
+    margin-top: 50px;
+}
+
+p{
+    font-size: 30px;
+    margin-left: 150px;
+    margin-right: 150px;
+    border: solid ;
+}
+
+#btn{
+    font-size: 20px;
+    border: solid 2px #fff;
+    background-color: #0276FD;
+    padding: 20px;
+    color: #fff;
+    border-radius: 25px;
+    outline: none;
+}
+
+#btn:hover{
+    font-size: 20px;
+    border: solid 2px;
+    background-color: #B7C3D0;
+    padding: 20px;
+    color: #0276FD;
+    border-radius: 25px;
+    outline: none;
+}
